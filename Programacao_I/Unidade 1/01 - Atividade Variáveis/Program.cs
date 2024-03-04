@@ -1,4 +1,4 @@
-﻿﻿Console.WriteLine( "\n" + "FICHA CADASTRARIA" + "\n" + "DIGITE OS DADOS REQUISITADOS ABAIXO:"+ "\n" );
+﻿﻿Console.WriteLine( "\n" + "FICHA CADASTRAL" + "\n" + "DIGITE OS DADOS REQUISITADOS ABAIXO:"+ "\n" );
 
 Console.Write("NOME: "); string? NOME = Console.ReadLine();
 Console.Write("DATA DE NASCIMENTO: "); string? DN = Console.ReadLine();
@@ -17,7 +17,7 @@ Console.Write("PAÍS: "); string? PAIS = Console.ReadLine();
 Console.WriteLine(
     "\n" + "\n" +
     $""" 
-    FICHA CADASTRARIA
+    FICHA CADASTRAL
     
     NOME: {NOME}, DATA DE NASCIMENTO: {DN}, SEX0/GENERO: {SG}
     CEP: {CEP}, ENDEREÇO: {RUA} - {NUMERO}, {BAIRRO}
