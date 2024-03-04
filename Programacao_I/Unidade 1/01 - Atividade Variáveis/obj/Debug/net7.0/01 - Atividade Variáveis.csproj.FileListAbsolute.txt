@@ -1,0 +1,15 @@
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/bin/Debug/net7.0/01 - Atividade Variáveis
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/bin/Debug/net7.0/01 - Atividade Variáveis.deps.json
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/bin/Debug/net7.0/01 - Atividade Variáveis.runtimeconfig.json
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/bin/Debug/net7.0/01 - Atividade Variáveis.dll
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/bin/Debug/net7.0/01 - Atividade Variáveis.pdb
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/obj/Debug/net7.0/01 - Atividade Variáveis.csproj.AssemblyReference.cache
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/obj/Debug/net7.0/01 - Atividade Variáveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/obj/Debug/net7.0/01 - Atividade Variáveis.AssemblyInfoInputs.cache
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/obj/Debug/net7.0/01 - Atividade Variáveis.AssemblyInfo.cs
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/obj/Debug/net7.0/01 - Atividade Variáveis.csproj.CoreCompileInputs.cache
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/obj/Debug/net7.0/01 - Atividade Variáveis.dll
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/obj/Debug/net7.0/refint/01 - Atividade Variáveis.dll
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/obj/Debug/net7.0/01 - Atividade Variáveis.pdb
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/obj/Debug/net7.0/01 - Atividade Variáveis.genruntimeconfig.cache
+/home/arthur/Downloads/Programacao/Programacao_I/Unidade_I/Atividades/01 - Atividade Variáveis/obj/Debug/net7.0/ref/01 - Atividade Variáveis.dll
