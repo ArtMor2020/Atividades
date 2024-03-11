@@ -1,0 +1,15 @@
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\obj\Debug\net8.0\2024_03_04-Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\obj\Debug\net8.0\2024_03_04-Atividade.AssemblyInfoInputs.cache
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\obj\Debug\net8.0\2024_03_04-Atividade.AssemblyInfo.cs
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\obj\Debug\net8.0\2024_03_04-Atividade.csproj.CoreCompileInputs.cache
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\obj\Debug\net8.0\2024_03_04-Atividade.sourcelink.json
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\bin\Debug\net8.0\2024_03_04-Atividade.exe
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\bin\Debug\net8.0\2024_03_04-Atividade.deps.json
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\bin\Debug\net8.0\2024_03_04-Atividade.runtimeconfig.json
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\bin\Debug\net8.0\2024_03_04-Atividade.dll
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\bin\Debug\net8.0\2024_03_04-Atividade.pdb
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\obj\Debug\net8.0\2024_03_04-Atividade.dll
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\obj\Debug\net8.0\refint\2024_03_04-Atividade.dll
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\obj\Debug\net8.0\2024_03_04-Atividade.pdb
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\obj\Debug\net8.0\2024_03_04-Atividade.genruntimeconfig.cache
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\2024_03_04-Atividade\obj\Debug\net8.0\ref\2024_03_04-Atividade.dll
