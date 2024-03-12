@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "/home/arthur/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/arthur/Downloads/Atividades/Programacao_I/Unidade_I/2024_03_11-Tabuada/2024_03_11-Tabuada.csproj",
+      "projectName": "2024_03_11-Tabuada",
+      "projectPath": "/home/arthur/Downloads/Atividades/Programacao_I/Unidade_I/2024_03_11-Tabuada/2024_03_11-Tabuada.csproj",
+      "packagesPath": "/home/arthur/.nuget/packages/",
+      "outputPath": "/home/arthur/Downloads/Atividades/Programacao_I/Unidade_I/2024_03_11-Tabuada/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/arthur/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
