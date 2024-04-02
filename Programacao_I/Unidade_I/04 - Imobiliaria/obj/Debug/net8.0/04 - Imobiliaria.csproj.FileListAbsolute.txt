@@ -1,0 +1,15 @@
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\obj\Debug\net8.0\04 - Imobiliaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\obj\Debug\net8.0\04 - Imobiliaria.AssemblyInfoInputs.cache
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\obj\Debug\net8.0\04 - Imobiliaria.AssemblyInfo.cs
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\obj\Debug\net8.0\04 - Imobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\obj\Debug\net8.0\04 - Imobiliaria.sourcelink.json
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\bin\Debug\net8.0\04 - Imobiliaria.exe
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\bin\Debug\net8.0\04 - Imobiliaria.deps.json
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\bin\Debug\net8.0\04 - Imobiliaria.runtimeconfig.json
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\bin\Debug\net8.0\04 - Imobiliaria.dll
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\bin\Debug\net8.0\04 - Imobiliaria.pdb
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\obj\Debug\net8.0\04 - Imobiliaria.dll
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\obj\Debug\net8.0\refint\04 - Imobiliaria.dll
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\obj\Debug\net8.0\04 - Imobiliaria.pdb
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\obj\Debug\net8.0\04 - Imobiliaria.genruntimeconfig.cache
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\04 - Imobiliaria\obj\Debug\net8.0\ref\04 - Imobiliaria.dll
