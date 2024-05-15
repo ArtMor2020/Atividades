@@ -1,0 +1,127 @@
+https://dbdiagram.io/d
+
+Table person {
+  id integer [primary key]
+  name text
+  birthdate text
+}
+
+//----------------------- SIMPOSIO
+
+Table symposium{
+  id int [primary key]
+  title text
+  info longtext
+}
+
+Table symposium_managers{
+  person_id int [primary key]
+  simposio_id int [primary key]
+}
+
+Table symposium_courses{
+  simposio_id int [primary key]
+  courses_id int [primary key]
+}
+
+Table symposium_articles{
+  simposio_id int [primary key]
+  articles_id int [primary key]
+}
+
+//----------------------- COURSE
+
+Table course {
+  id integer [primary key]
+  course text
+  presenter_id int
+  info text
+}
+
+Table course_audience{
+  person_id int [primary key]
+  course_id int [primary key]
+}
+
+//----------------------- THEME
+
+Table theme {
+  id integer [primary key]
+  theme text 
+}
+
+//----------------------- CIENTIFIC COMMISION
+
+Table cientific_commision {
+  id integer [primary key]
+  commision_name text
+  theme_id int 
+}
+
+Table cientific_commision_board_memebrs {
+  cientific_commision_id int [primary key]
+  person_id int [primary key]
+}
+
+Table cientific_commision_articles {
+  cientific_commision_id int [primary key]
+  article_id int [primary key]
+} 
+
+//----------------------- ARTICLE
+
+Table article {
+  id integer [primary key]
+  article text
+  theme_id integer 
+  info text
+}
+
+Table article_presenters{
+  article_id int [primary key]
+  person_id int [primary key]
+}
+
+Table article_audience{
+  person_id int [primary key]
+  article_id int [primary key]
+}
+
+
+Ref: "person"."id" < "symposium_managers"."person_id"
+
+Ref: "person"."id" < "course_audience"."person_id"
+
+Ref: "person"."id" < "cientific_commision_board_memebrs"."person_id"
+
+Ref: "person"."id" < "article_presenters"."person_id"
+
+Ref: "person"."id" < "article_audience"."person_id"
+
+Ref: "article"."id" < "article_audience"."article_id"
+
+Ref: "article"."id" < "article_presenters"."article_id"
+
+Ref: "cientific_commision"."id" < "cientific_commision_board_memebrs"."cientific_commision_id"
+
+Ref: "cientific_commision"."id" < "cientific_commision_articles"."cientific_commision_id"
+
+Ref: "article"."id" < "cientific_commision_articles"."article_id"
+
+Ref: "theme"."id" < "cientific_commision"."theme_id"
+
+Ref: "theme"."id" < "article"."theme_id"
+
+Ref: "course"."id" < "course_audience"."course_id"
+
+Ref: "person"."id" < "course"."presenter_id"
+
+Ref: "symposium"."id" < "symposium_courses"."simposio_id"
+
+Ref: "symposium"."id" < "symposium_articles"."simposio_id"
+
+Ref: "course"."id" < "symposium_courses"."courses_id"
+
+Ref: "article"."id" < "symposium_articles"."articles_id"
+
+Ref: "symposium"."id" < "symposium_managers"."simposio_id"
