@@ -16,7 +16,7 @@ namespace Atividade_Avaliativa_Final.Program.Repository
 
         public void Save (Models.Task task, bool autoGenerateId = true)
         {
-            if(autoGenerateId)
+            if(task.id < 1)
                 task.id = this.GetNextID();
 
                 Data.DataSet.Tasks.Add(task);
@@ -56,10 +56,9 @@ namespace Atividade_Avaliativa_Final.Program.Repository
                 if ( task.id > n)
                     n = task.id;
             }
-
-            return ++n;
+            return ++n;        
         }
-
+        
         public bool ImportFromTxt (string line, string delimiter)
         {
             if ( string.IsNullOrWhiteSpace( line ) )

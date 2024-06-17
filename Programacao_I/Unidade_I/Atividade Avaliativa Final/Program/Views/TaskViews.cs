@@ -87,6 +87,7 @@ namespace Atividade_Avaliativa_Final.Program.Views
             if( !string.IsNullOrWhiteSpace(temp) )
                 task.id = Convert.ToInt32(temp);
             
+            
             Console.Write("    Titulo: ");
             task.title = Console.ReadLine();
 
@@ -103,9 +104,10 @@ namespace Atividade_Avaliativa_Final.Program.Views
             {
                 taskController.Insert(task);
             }
-            catch
+            catch(System.Exception ex)
             {
                 Console.WriteLine("    Ops! Ocorreu um erro.");
+                Console.WriteLine(ex);
             }
         }
 

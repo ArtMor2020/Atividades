@@ -27,3 +27,18 @@ E:\Documents\unoesc\3 Semestre\Programação I\Programacao\Programacao_I\Unidade
 E:\Documents\unoesc\3 Semestre\Programação I\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\obj\Debug\net8.0\Atividade Avaliativa Final.pdb
 E:\Documents\unoesc\3 Semestre\Programação I\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\obj\Debug\net8.0\Atividade Avaliativa Final.genruntimeconfig.cache
 E:\Documents\unoesc\3 Semestre\Programação I\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\obj\Debug\net8.0\ref\Atividade Avaliativa Final.dll
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\bin\Debug\net8.0\Atividade Avaliativa Final.exe
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\bin\Debug\net8.0\Atividade Avaliativa Final.deps.json
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\bin\Debug\net8.0\Atividade Avaliativa Final.runtimeconfig.json
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\bin\Debug\net8.0\Atividade Avaliativa Final.dll
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\bin\Debug\net8.0\Atividade Avaliativa Final.pdb
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\obj\Debug\net8.0\Atividade Avaliativa Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\obj\Debug\net8.0\Atividade Avaliativa Final.AssemblyInfoInputs.cache
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\obj\Debug\net8.0\Atividade Avaliativa Final.AssemblyInfo.cs
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\obj\Debug\net8.0\Atividade Avaliativa Final.csproj.CoreCompileInputs.cache
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\obj\Debug\net8.0\Atividade Avaliativa Final.sourcelink.json
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\obj\Debug\net8.0\Atividade Avaliativa Final.dll
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\obj\Debug\net8.0\refint\Atividade Avaliativa Final.dll
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\obj\Debug\net8.0\Atividade Avaliativa Final.pdb
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\obj\Debug\net8.0\Atividade Avaliativa Final.genruntimeconfig.cache
+C:\Users\237413\Downloads\Programacao\Programacao_I\Unidade_I\Atividades\Atividade Avaliativa Final\obj\Debug\net8.0\ref\Atividade Avaliativa Final.dll
