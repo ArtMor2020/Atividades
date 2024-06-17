@@ -14,7 +14,7 @@ namespace Atividade_Avaliativa_Final.Program.Repository
             Data.DataSet.Tasks.Add(task);
         }
 
-        public void Save (Models.Task task, bool autoGenerateId = true)
+        public void Save (Models.Task task)
         {
             if(task.id < 1)
                 task.id = this.GetNextID();
@@ -58,7 +58,7 @@ namespace Atividade_Avaliativa_Final.Program.Repository
             }
             return ++n;        
         }
-        
+
         public bool ImportFromTxt (string line, string delimiter)
         {
             if ( string.IsNullOrWhiteSpace( line ) )
@@ -77,7 +77,7 @@ namespace Atividade_Avaliativa_Final.Program.Repository
                 status = (data[4] == null ? string.Empty : data[4])
             };
 
-            Save(task, false);
+            Save(task);
 
             return true;
         }

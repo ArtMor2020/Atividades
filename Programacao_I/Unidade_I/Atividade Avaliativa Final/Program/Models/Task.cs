@@ -20,7 +20,7 @@ namespace Atividade_Avaliativa_Final.Models
 
         public override string ToString()
         {
-            return $"{id}-{title}-{description}-{due_date}-{status}";
+            return $"{id} - {title} - {description} - {due_date} - {status}";
         }
     }
 }

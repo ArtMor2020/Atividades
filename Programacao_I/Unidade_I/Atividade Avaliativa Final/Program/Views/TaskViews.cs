@@ -104,10 +104,9 @@ namespace Atividade_Avaliativa_Final.Program.Views
             {
                 taskController.Insert(task);
             }
-            catch(System.Exception ex)
+            catch
             {
                 Console.WriteLine("    Ops! Ocorreu um erro.");
-                Console.WriteLine(ex);
             }
         }
 
