@@ -22,16 +22,6 @@ namespace Atividade_Avaliativa_Final.Program.Repository
                 Data.DataSet.Tasks.Add(task);
         }
 
-        public Models.Task Read (int id)
-        {
-            foreach( var task in Data.DataSet.Tasks)
-            {
-                if( task.id == id )
-                    return task;
-            }
-            return null;
-        }
-
         public List<Models.Task> Read()
         {
             return Data.DataSet.Tasks;

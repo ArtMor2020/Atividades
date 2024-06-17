@@ -42,11 +42,6 @@ namespace Atividade_Avaliativa_Final.Program.Controllers
             }
         }
 
-        public Models.Task Get(int id)
-        {
-            return taskRepository.Read(id);
-        }
-
         public List<Models.Task> Get()
         {
             return taskRepository.Read();
@@ -115,7 +110,7 @@ namespace Atividade_Avaliativa_Final.Program.Controllers
             catch (System.Exception ex)
             {
                 Console.WriteLine();
-                msgReturn = $"    Error: {ex.Message}";
+                msgReturn = $"    Erro: {ex.Message}";
                 return msgReturn;
 
             }

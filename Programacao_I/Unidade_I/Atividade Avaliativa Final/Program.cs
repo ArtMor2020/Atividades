@@ -1,4 +1,4 @@
-﻿// Task Management system
+﻿// Sistema de gerenciamento de tarefas.
 
 using Atividade_Avaliativa_Final.Models;
 using Atividade_Avaliativa_Final.Program.Views;
