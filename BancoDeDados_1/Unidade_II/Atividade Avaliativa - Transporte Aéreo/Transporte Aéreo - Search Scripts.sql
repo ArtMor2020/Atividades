@@ -75,7 +75,8 @@ from
 	list_passangers_flight 
 where 
 	id_flight = 4      -- Nesse caso o voo 4
+    and id_passenger = -1
 order by 
-	id_flight, id_passenger, seat_number 
+	id_flight, seat_number 
 asc;
 
