@@ -58,25 +58,30 @@ where
     and layover.id_destination_airport = destinyAirport.id
     and layover.id_flight = flight.id 
     and aircraft.id = flight.id_aircraft
-    -- and layover.id_origin_airport = 1              -- Nesse caso o aeroporto de id = 1 (alpha)
+    and layover.id_origin_airport = 1              -- Nesse caso o aeroporto de id = 1 (alpha)
 order by 
 	layover.exit_time 
 asc;
 
 -- Exibição de poltronas disponíveis em um determinado vôo/avião;
 
-select 
+select
     id_flight as Voo, 
+    aircraft.model as 'Aeronave',
     if (id_passenger = -1, 'Sim', 'Não' ) as "Disponivel",
     seat_number as "Numero Assento",
     if (is_right = 1, 'Sim', 'Não' ) as "Lado Direito",
     if (is_window_seat = 1, 'Sim', 'Não' )  as "Janela"
-from 
-	list_passangers_flight 
-where 
+from
+	list_passangers_flight,
+    flight,
+    aircraft
+where
 	id_flight = 4      -- Nesse caso o voo 4
     and id_passenger = -1
-order by 
+    and flight.id = list_passangers_flight.id_flight
+    and flight.id_aircraft = aircraft.id
+order by
 	id_flight, seat_number 
 asc;
 
