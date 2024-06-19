@@ -37,6 +37,7 @@ where
 	aircraft.id = flight.id_aircraft
 	and flight.id_destination_airport = destinyAirport.id
     and flight.id_origin_airport = airport.id
+    and date(flight.exit_time) = date('2024-06-16')
 order by 
 	exit_time
 asc;
@@ -71,16 +72,24 @@ select
     if (id_passenger = -1, 'Sim', 'Não' ) as "Disponivel",
     seat_number as "Numero Assento",
     if (is_right = 1, 'Sim', 'Não' ) as "Lado Direito",
-    if (is_window_seat = 1, 'Sim', 'Não' )  as "Janela"
+    if (is_window_seat = 1, 'Sim', 'Não' )  as "Janela",
+    airport.name as 'Aeroporto Origem',
+    destinyAirport.name as 'Aeroporto Destino',
+    flight.exit_time as 'Horário Saída',
+    flight.estimated_arrival_time as 'Horário Estimado Chegada'
 from
 	list_passangers_flight,
     flight,
-    aircraft
+    aircraft,
+    (select airport.id, airport.name from airport) as destinyAirport,
+    airport
 where
 	id_flight = 4      -- Nesse caso o voo 4
     and id_passenger = -1
     and flight.id = list_passangers_flight.id_flight
     and flight.id_aircraft = aircraft.id
+    and flight.id_destination_airport = destinyAirport.id
+    and flight.id_origin_airport = airport.id
 order by
 	id_flight, seat_number 
 asc;
