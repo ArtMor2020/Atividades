@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\estoque_concecionaria\\views\\vehicles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|solutionrelative:views\\vehicles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\estoque_concecionaria\\views\\vehicles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|solutionrelative:views\\vehicles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\estoque_concecionaria\\views\\vehicles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|solutionrelative:views\\vehicles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\estoque_concecionaria\\views\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|solutionrelative:views\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\estoque_concecionaria\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|solutionrelative:models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\estoque_concecionaria\\views\\classifications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|solutionrelative:views\\classifications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\estoque_concecionaria\\views\\manufacturers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|solutionrelative:views\\manufacturers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\estoque_concecionaria\\views\\vehicles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48628D9B-4BC0-4727-877A-E795CB810672}|Estoque_Concecionaria.csproj|solutionrelative:views\\vehicles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Vehicles\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Vehicles\\Index.cshtml",
-              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Vehicles\\Index.cshtml",
-              "RelativeToolTip": "Views\\Vehicles\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Classifications\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Classifications\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Classifications\\Index.cshtml",
+              "RelativeToolTip": "Views\\Classifications\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T01:58:04.161Z",
+              "WhenOpened": "2024-09-09T02:04:34.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Manufacturers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manufacturers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Manufacturers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Manufacturers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T02:03:56.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Vehicles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehicles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Vehicles\\Create.cshtml",
+              "RelativeToolTip": "Views\\Vehicles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T02:03:15.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Vehicles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehicles\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Vehicles\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Vehicles\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T02:03:10.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Models\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\MyDbContext.cs",
-              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Models\\MyDbContext.cs",
-              "RelativeToolTip": "Models\\MyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T01:21:15.115Z",
-              "EditorCaption": ""
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Vehicles\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehicles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Vehicles\\Details.cshtml",
+              "RelativeToolTip": "Views\\Vehicles\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T02:02:44.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Vehicles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehicles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Vehicles\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Vehicles\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T02:00:26.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Vehicles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehicles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Estoque_Concecionaria\\Views\\Vehicles\\Index.cshtml",
+              "RelativeToolTip": "Views\\Vehicles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T01:58:04.161Z"
             }
           ]
         }
