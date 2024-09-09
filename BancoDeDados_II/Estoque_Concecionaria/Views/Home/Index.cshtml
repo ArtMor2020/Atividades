@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Estoque_Concecionaria.Models.Manufacturer
+
+
+<div class="text-center">
+    <h1 class="display-4">Concessionária</h1>
+</div>
+
+<h1>Montadoras</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form action="/Manufacturers" method="get">
+            <input type="submit" value="Ir para Montadoras" />
+        </form>
+
+    </div>
+</div>
+
+<br>
+<br>
+
+<h1>Veiculos</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form action="/Vehicles" method="get">
+            <input type="submit" value="Ir para Veículos" />
+        </form>
+
+    </div>
+</div>
+
+<br>
+<br>
+
+<h1>Categorias</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form action="/Classifications" method="get">
+            <input type="submit" value="Ir para Categorias" />
+        </form>
+
+    </div>
+</div>
