@@ -1,0 +1,84 @@
+github materia - https://github.com/mrgonzatto/bancodedados224
+
+---- 2024 08 16
+
+Visual Studio Installer
+	ASP.NET e desenvolvimento Web
+	Processamento e armazenamento de dados
+HTTP: Hyper Text Transfer Protocol
+HTTPS: Hyper Text Transfer Protocol Secure
+
+Nome do servidor:
+	(localdb)\MSSQLLocalDB
+
+
+Adicionar pacotes ao projeto:
+	dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+	dotnet tool install --global dotnet-ef
+	dotnet add package Microsoft.EntityFrameworkCore.Design
+
+---- 2024 08 23
+
+	Dependency Injection
+
+	F9:  Faz breakpoint
+	F5:  Roda ate o brakepoint
+	F10: Roda a linha seguinte
+
+	dotnet ef migrations add Initial
+	dotnet ef database update
+
+	RClick - adicionar - Novo item com scaffold - Controlador MVC com exibicoes, usando o Entity Framework
+
+
+	String Connection, DbContext, Migrations, Scaffold
+
+
+2024 09 06
+
+	TRABALHO
+
+	fazer programa 
+
+	Modelo - categoria e itens - um pra muitos - ex; carro, banda, time, etc
+	configurar projeto, entity framework, 
+	criar migrations - conectar e atualizar banco de dados
+	fazer controllers/views (scaffold (telas))
+	atualizar git (repositorio)
+
+
+	Aplicativo Web do ASP.NET Core (Model View Controller)
+
+
+2024 09 27
+
+	SQL Server Management Studio - Same as "MySQL Workbench", but for "Microsoft SQL Server"
+		(localdb)\MSSQLLocalDB
+	
+	AulaEF -> RClick -> Tarefas -> Fazer BackUp
+	AulaEF -> RClick -> Tarefas -> Restaurar
+	
+	
+	https://learn.microsoft.com/pt-br/dotnet/csharp/linq/
+
+	Ctrl+Shift+B = Build / Test program
+	
+	
+2024 10 04
+
+	Injeção de Dependencia - PESQUISAR SOBRE
+	
+	https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
+	https://app.diagrams.net/?src=about
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
