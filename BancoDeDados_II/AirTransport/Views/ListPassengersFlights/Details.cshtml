@@ -1,0 +1,48 @@
+﻿@model AirTransport.ListPassengersFlight
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>ListPassengersFlight</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+             Is Window Seat
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IsWindowSeat)
+        </dd>
+        <dt class = "col-sm-2">
+           Is Right
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IsRight)
+        </dd>
+        <dt class = "col-sm-2">
+            Seat Number
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SeatNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            Flight ID
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdFlightNavigation.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            Passenger ID
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdPassengerNavigation.Id)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdFlight">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

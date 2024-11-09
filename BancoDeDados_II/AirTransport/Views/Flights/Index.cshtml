@@ -1,0 +1,62 @@
+﻿@model IEnumerable<AirTransport.Flight>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Origin Airport
+            </th>
+            <th>
+                Destination Airport
+            </th>
+            <th>
+                Aircraft
+            </th>
+            <th>
+                Exit Time
+            </th>
+            <th>
+                Estimated Arrival Time
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdOriginAirportNavigation.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdDestinationAirportNavigation.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdAircraftNavigation.Model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExitTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstimatedArrivalTime)
+            </td>
+            
+            
+            
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,48 @@
+﻿@model AirTransport.Flight
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Flight</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            Exit Time
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ExitTime)
+        </dd>
+        <dt class = "col-sm-2">
+            Estimated Arrival Time
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EstimatedArrivalTime)
+        </dd>
+        <dt class = "col-sm-2">
+            Aircraft
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdAircraftNavigation.Model)
+        </dd>
+        <dt class = "col-sm-2">
+            Destination Airport
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdDestinationAirportNavigation.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            Origin Airport
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdOriginAirportNavigation.Name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

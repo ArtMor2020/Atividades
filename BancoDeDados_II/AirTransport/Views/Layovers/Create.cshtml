@@ -1,0 +1,50 @@
+﻿@model AirTransport.Layover
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Layover</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdFlight" class="control-label">Flight</label>
+                <select asp-for="IdFlight" class ="form-control" asp-items="ViewBag.IdFlight"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdOriginAirport" class="control-label">Origin Airport</label>
+                <select asp-for="IdOriginAirport" class ="form-control" asp-items="ViewBag.IdOriginAirport"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdDestinationAirport" class="control-label">Destination Airport</label>
+                <select asp-for="IdDestinationAirport" class ="form-control" asp-items="ViewBag.IdDestinationAirport"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ExitTime" class="control-label">Exit Time</label>
+                <input asp-for="ExitTime" class="form-control" />
+                <span asp-validation-for="ExitTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstimatedArrivalTime" class="control-label">Estimated Arrival Time</label>
+                <input asp-for="EstimatedArrivalTime" class="form-control" />
+                <span asp-validation-for="EstimatedArrivalTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
