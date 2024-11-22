@@ -1,0 +1,337 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Campeonato
+build_property.RootNamespace = Campeonato
+build_property.ProjectDir = C:\Users\arthu\Downloads\BancoDeDados\BancoDeDadosII\Trabalhos\Unidade_II\Campeonato\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\arthu\Downloads\BancoDeDados\BancoDeDadosII\Trabalhos\Unidade_II\Campeonato
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/EquipeEmPartidums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlRW1QYXJ0aWR1bXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/EquipeEmPartidums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlRW1QYXJ0aWR1bXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/EquipeEmPartidums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlRW1QYXJ0aWR1bXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/EquipeEmPartidums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlRW1QYXJ0aWR1bXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/EquipeEmPartidums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlRW1QYXJ0aWR1bXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Equipes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Equipes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Equipes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Equipes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Equipes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/JogadorEmEquipes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvckVtRXF1aXBlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/JogadorEmEquipes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvckVtRXF1aXBlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/JogadorEmEquipes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvckVtRXF1aXBlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/JogadorEmEquipes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvckVtRXF1aXBlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/JogadorEmEquipes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvckVtRXF1aXBlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/JogadorEmPartidaIndividuals/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvckVtUGFydGlkYUluZGl2aWR1YWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/JogadorEmPartidaIndividuals/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvckVtUGFydGlkYUluZGl2aWR1YWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/JogadorEmPartidaIndividuals/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvckVtUGFydGlkYUluZGl2aWR1YWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/JogadorEmPartidaIndividuals/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvckVtUGFydGlkYUluZGl2aWR1YWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/JogadorEmPartidaIndividuals/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvckVtUGFydGlkYUluZGl2aWR1YWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Jogadors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Jogadors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Jogadors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Jogadors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Jogadors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Modalidades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kYWxpZGFkZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Modalidades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kYWxpZGFkZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Modalidades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kYWxpZGFkZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Modalidades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kYWxpZGFkZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Modalidades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kYWxpZGFkZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PartidaEquipes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkYUVxdWlwZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PartidaEquipes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkYUVxdWlwZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PartidaEquipes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkYUVxdWlwZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PartidaEquipes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkYUVxdWlwZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PartidaEquipes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkYUVxdWlwZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PartidaIndividuals/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkYUluZGl2aWR1YWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PartidaIndividuals/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkYUluZGl2aWR1YWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PartidaIndividuals/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkYUluZGl2aWR1YWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PartidaIndividuals/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkYUluZGl2aWR1YWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PartidaIndividuals/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlkYUluZGl2aWR1YWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosCampeonatoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zQ2FtcGVvbmF0b2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosCampeonatoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zQ2FtcGVvbmF0b2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosCampeonatoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zQ2FtcGVvbmF0b2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosCampeonatoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zQ2FtcGVvbmF0b2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosCampeonatoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zQ2FtcGVvbmF0b2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosPartidaEmEquipes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zUGFydGlkYUVtRXF1aXBlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosPartidaEmEquipes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zUGFydGlkYUVtRXF1aXBlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosPartidaEmEquipes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zUGFydGlkYUVtRXF1aXBlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosPartidaEmEquipes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zUGFydGlkYUVtRXF1aXBlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosPartidaEmEquipes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zUGFydGlkYUVtRXF1aXBlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosPartidaIndividuals/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zUGFydGlkYUluZGl2aWR1YWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosPartidaIndividuals/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zUGFydGlkYUluZGl2aWR1YWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosPartidaIndividuals/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zUGFydGlkYUluZGl2aWR1YWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosPartidaIndividuals/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zUGFydGlkYUluZGl2aWR1YWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/PontosPartidaIndividuals/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9udG9zUGFydGlkYUluZGl2aWR1YWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/RegistroModalidadeEquipes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9Nb2RhbGlkYWRlRXF1aXBlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/RegistroModalidadeEquipes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9Nb2RhbGlkYWRlRXF1aXBlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/RegistroModalidadeEquipes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9Nb2RhbGlkYWRlRXF1aXBlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/RegistroModalidadeEquipes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9Nb2RhbGlkYWRlRXF1aXBlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/RegistroModalidadeEquipes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9Nb2RhbGlkYWRlRXF1aXBlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/RegistroModalidadeIndividuals/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9Nb2RhbGlkYWRlSW5kaXZpZHVhbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/RegistroModalidadeIndividuals/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9Nb2RhbGlkYWRlSW5kaXZpZHVhbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/RegistroModalidadeIndividuals/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9Nb2RhbGlkYWRlSW5kaXZpZHVhbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/RegistroModalidadeIndividuals/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9Nb2RhbGlkYWRlSW5kaXZpZHVhbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/RegistroModalidadeIndividuals/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9Nb2RhbGlkYWRlSW5kaXZpZHVhbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Tournments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cm5tZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Tournments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cm5tZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Tournments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cm5tZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Tournments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cm5tZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Tournments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91cm5tZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arthu/Downloads/BancoDeDados/BancoDeDadosII/Trabalhos/Unidade_II/Campeonato/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-esz6fr1n5o

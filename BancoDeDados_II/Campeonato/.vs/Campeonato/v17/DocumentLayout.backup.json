@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\unidade_ii\\campeonato\\views\\pontospartidaemequipes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|solutionrelative:views\\pontospartidaemequipes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\unidade_ii\\campeonato\\views\\pontospartidaemequipes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|solutionrelative:views\\pontospartidaemequipes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\unidade_ii\\campeonato\\views\\pontospartidaemequipes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|solutionrelative:views\\pontospartidaemequipes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\unidade_ii\\campeonato\\views\\pontospartidaemequipes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|solutionrelative:views\\pontospartidaemequipes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\unidade_ii\\campeonato\\views\\pontospartidaemequipes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|solutionrelative:views\\pontospartidaemequipes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\unidade_ii\\campeonato\\views\\pontospartidaindividuals\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|solutionrelative:views\\pontospartidaindividuals\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\unidade_ii\\campeonato\\views\\pontospartidaindividuals\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|solutionrelative:views\\pontospartidaindividuals\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\unidade_ii\\campeonato\\views\\pontospartidaindividuals\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|solutionrelative:views\\pontospartidaindividuals\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\unidade_ii\\campeonato\\views\\pontospartidaindividuals\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|solutionrelative:views\\pontospartidaindividuals\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\unidade_ii\\campeonato\\views\\pontospartidaindividuals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|solutionrelative:views\\pontospartidaindividuals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|c:\\users\\arthu\\downloads\\bancodedados\\bancodedadosii\\trabalhos\\unidade_ii\\campeonato\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5439AEA4-B7FF-43A8-82DA-58FF5FED916F}|Campeonato.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaEmEquipes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\PontosPartidaEmEquipes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaEmEquipes\\Create.cshtml",
+              "RelativeToolTip": "Views\\PontosPartidaEmEquipes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:23:21.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaEmEquipes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\PontosPartidaEmEquipes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaEmEquipes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\PontosPartidaEmEquipes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:23:06.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaEmEquipes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\PontosPartidaEmEquipes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaEmEquipes\\Details.cshtml",
+              "RelativeToolTip": "Views\\PontosPartidaEmEquipes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:22:15.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaEmEquipes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\PontosPartidaEmEquipes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaEmEquipes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\PontosPartidaEmEquipes\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:21:56.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaEmEquipes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\PontosPartidaEmEquipes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaEmEquipes\\Index.cshtml",
+              "RelativeToolTip": "Views\\PontosPartidaEmEquipes\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:20:46.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaIndividuals\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\PontosPartidaIndividuals\\Create.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaIndividuals\\Create.cshtml",
+              "RelativeToolTip": "Views\\PontosPartidaIndividuals\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:20:17.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaIndividuals\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\PontosPartidaIndividuals\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaIndividuals\\Delete.cshtml",
+              "RelativeToolTip": "Views\\PontosPartidaIndividuals\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:20:10.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaIndividuals\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\PontosPartidaIndividuals\\Details.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaIndividuals\\Details.cshtml",
+              "RelativeToolTip": "Views\\PontosPartidaIndividuals\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:19:13.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaIndividuals\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\PontosPartidaIndividuals\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaIndividuals\\Edit.cshtml",
+              "RelativeToolTip": "Views\\PontosPartidaIndividuals\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:18:54.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaIndividuals\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\PontosPartidaIndividuals\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\PontosPartidaIndividuals\\Index.cshtml",
+              "RelativeToolTip": "Views\\PontosPartidaIndividuals\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:17:49.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\Downloads\\BancoDeDados\\BancoDeDadosII\\Trabalhos\\Unidade_II\\Campeonato\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:15:00.485Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

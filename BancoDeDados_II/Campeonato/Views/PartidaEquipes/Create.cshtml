@@ -1,0 +1,41 @@
+﻿@model Campeonato.Models.PartidaEquipe
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>PartidaEquipe</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdModalidade" class="control-label">Modalidade</label>
+                <select asp-for="IdModalidade" class ="form-control" asp-items="ViewBag.IdModalidade"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdEquipeVencedora" class="control-label">Equipe Vencedora</label>
+                <select asp-for="IdEquipeVencedora" class ="form-control" asp-items="ViewBag.IdEquipeVencedora"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="PosChaveamento" class="control-label">Posição Chaveamento</label>
+                <input asp-for="PosChaveamento" class="form-control" />
+                <span asp-validation-for="PosChaveamento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <div class="mt-4">
+        <form asp-controller="Campeonato" asp-action="StartTournament" method="post" class="d-inline">
+            <button type="submit" class="btn btn-success">Start Tournament</button>
+        </form>
+
+        <form asp-controller="Campeonato" asp-action="EndTournament" method="post" class="d-inline">
+            <button type="submit" class="btn btn-danger">End Tournament</button>
+        </form>
+
+        <form asp-controller="Campeonato" asp-action="ResetTournament" method="post" class="d-inline">
+            <button type="submit" class="btn btn-warning">Reset Tournament</button>
+        </form>
+    </div>
+</div>
+
+<nav>
+    <ul>
+        <li><a href="Tournments/Index">Status Torneio</a></li>
+        <br />
+        <li><a href="Modalidades/Index">Modalidades</a></li>
+        <br />
+        <li><a href="Jogadors/Index">Jogadores</a></li>
+        <br />
+        <li><a href="Equipes/Index">Equipes</a></li>
+        <li><a href="JogadorEmEquipes/Index">Jogadores Em Equipes</a></li>
+        <br />
+        <li><a href="RegistroModalidadeEquipes/Index">Registro Equipess em Modalidades </a></li>
+        <li><a href="RegistroModalidadeIndividuals/Index">Registro Jogadores em Modalidade </a></li>
+        <br />
+        <li><a href="PartidaEquipes/Index">Partidas em Equipe</a></li>
+        <li><a href="EquipeEmPartidums/Index">Equipe Em Partida</a></li>
+        <li><a href="PontosPartidaEmEquipes/Index">Pontos Partidas Equipes</a></li>
+        <br />
+        <li><a href="PartidaIndividuals/Index">Partidas Individuais</a></li>
+        <li><a href="JogadorEmPartidaIndividuals/Index">Jogadors Em Partidas Individuais</a></li>
+        <li><a href="PontosPartidaIndividuals/Index">Pontos Partidas Individuais</a></li>
+        <br />
+        <li><a href="PontosCampeonatoes/Index">Pontos Campeonato</a></li>
+        
+
+
+        
+        
+    </ul>
+</nav>

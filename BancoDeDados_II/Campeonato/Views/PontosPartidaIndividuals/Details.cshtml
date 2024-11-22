@@ -1,0 +1,36 @@
+﻿@model Campeonato.Models.PontosPartidaIndividual
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>PontosPartidaIndividual</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            ID Partida
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IdPartidaIndividualNavigation.Id)
+        </dd>
+        <dt class="col-sm-2">
+            Jogador
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IdJogadorNavigation.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            Pontos
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Pontos)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
