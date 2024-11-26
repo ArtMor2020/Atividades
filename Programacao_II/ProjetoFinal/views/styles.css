@@ -1,0 +1,73 @@
+/* CONTENT */
+
+.content {
+    margin-top: 60px; /* This ensures the content starts below the fixed top bar */
+    margin-left: 220px; /* This ensures the content starts after the fixed left sidebar */
+    margin-right: 320px; /* This ensures the content does not overlap with the fixed right sidebar */
+    padding: 20px; /* Add padding around the content */
+    overflow-y: auto; /* Allow content to scroll */
+    height: calc(100vh - 60px); /* Full height minus top bar height */
+}
+
+/* LEFT SIDE BAR */
+
+.sidebar {
+    width: 200px; /* Set width for the sidebar */
+    background-color: #f4f4f4;
+    padding: 20px;
+    position: fixed; /* Make the sidebar fixed */
+    left: 0;
+    height: calc(100vh - 60px); /* Full height minus top bar height */
+    overflow-y: auto; /* Allow scrolling if content exceeds height */
+}
+
+/* BUTTONS */
+
+.button-container {
+    display: flex; /* Use flexbox for alignment */
+    gap: 10px; /* Space between buttons */
+}
+
+.button-container form {
+    margin: 0; /* Remove default margin from forms */
+}
+
+/* BUTTON STYLES */
+.styled-button {
+    padding: 10px 15px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.styled-button:hover {
+    background-color: #555;
+}
+
+/* Notification container */
+.notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    width: 300px;
+    padding: 15px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 16px;
+    display: none; /* Initially hidden */
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+/* Success notification style */
+.notification.success {
+    background-color: #4CAF50; /* Green */
+}
+
+/* Error notification style */
+.notification.error {
+    background-color: #f44336; /* Red */
+}
